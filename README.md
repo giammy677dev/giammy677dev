@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giammy677dev&label=Profile%20views&color=b40e2f&style=flat" alt="giammy677dev" /> </p>
 
-- 🔭 I’m currently working on **MSc Internship Project** in *Big Data Engineering*
+- 🔭 **MSc in Computer Engineering** @ University of Naples Federico II, specialization in *Big Data Engineering*
+
+- :exclamation: **Graduated** @ Apple Developer Academy
 
 - 👨‍💻 All of my projects are available at [https://github.com/giammy677dev](https://github.com/giammy677dev)
 
-- 📫 How to reach me **gian.orlando@studenti.unina.it - gian.orlando10@gmail.com**
+- 📫 Reach me at **gian.orlando@studenti.unina.it - gian.orlando10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
