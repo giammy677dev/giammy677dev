@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Gian Marco</h1>
-<h3 align="center">A Data Engineering MSc. Graduated Students in University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giammy677dev&label=Profile%20views&color=b40e2f&style=flat" alt="giammy677dev" /> </p>
 
