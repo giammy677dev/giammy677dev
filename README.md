@@ -1,15 +1,26 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Gian Marco</h1>
 <h3 align="center">A Data Engineering MSc. Graduated Students in University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giammy677dev&label=Profile%20views&color=b40e2f&style=flat" alt="giammy677dev" /> </p>
 
-- 🔭 **MSc in Computer Engineering** @ University of Naples Federico II, specialization in *Big Data Engineering*
+- 🔭 **PhD Student in Information Technology and Electrical Engineering** @ University of Naples Federico II
+
+- 🎓 **MSc in Computer Engineering, cum laude** @ University of Naples Federico II, specialization in *Big Data Engineering*
 
 - :exclamation: **Graduated** @ Apple Developer Academy
 
 - 👨‍💻 All of my projects are available at [https://github.com/giammy677dev](https://github.com/giammy677dev)
 
-- 📫 Reach me at **gian.orlando@studenti.unina.it - gian.orlando10@gmail.com**
+- 📫 Reach me at **gianmarco.orlando@unina.it - gian.orlando10@gmail.com**
+
+<h3 align="left">View my papers:</h3>
+<a href="https://scholar.google.com/citations?user=KNN1MaQAAAAJ" target="_blank">
+  <img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
